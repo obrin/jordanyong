@@ -1,19 +1,39 @@
 {
   "socialLinks": [
     {
+      "id": "linkedin",
+      "title": "Linkedin",
+      "url": "https://linkedin.com/in/jordanyong"
+    },
+    {
+      "id": "github",
+      "title": "Github",
+      "url": "https://github.com/obrin"
+    },
+    {
+      "id": "resume",
+      "title": "Resume",
+      "url": "https://docs.google.com/document/d/1fuREYfQNyE-O8vTxh6KQlPDWVFBuC-Bm6AJgn2QM22U/edit?usp=sharing"
+    },
+    {
+      "id": "mail",
+      "title": "Email",
+      "url": "mailto:jordanyong@gmail.com"
+    },
+    {
       "id": "twitter",
       "title": "Twitter",
-      "url": "https://twitter.com/viget"
+      "url": "https://twitter.com/jordanyong23"
     },
     {
       "id": "facebook",
       "title": "Facebook",
-      "url": "https://www.facebook.com/vigetlabs"
+      "url": "https://www.facebook.com/jordanyong23"
     },
     {
       "id": "instagram",
       "title": "Instagram",
-      "url": "https://instagram.com/viget"
+      "url": "https://instagram.com/jordanyong"
     }
   ]
 }
