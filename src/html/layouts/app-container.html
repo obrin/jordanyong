@@ -1,0 +1,26 @@
+{% from 'macros/helpers.html' import sprite %}
+
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}Gulp Asset Pipeline{% endblock %}</title>
+  <link rel="stylesheet" href="stylesheets/global.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  {% include "components/app-icons.html" %}
+  {% block head %}{% endblock %}
+</head>
+<body>
+  {% include "components/navigation.html" %}
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer>
+
+  </footer>
+
+  <script src="javascripts/shared.js"></script>
+  {% block javascript %}{% endblock %}
+</body>
+</html>
