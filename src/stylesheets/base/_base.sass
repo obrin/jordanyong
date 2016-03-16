@@ -33,5 +33,17 @@ h1, h2, h3, h4, h5, h6
   font-family: $font-header-thin
 
 .content-container
-  width: 50%
   margin: 0 auto
+  &.narrow
+    width: 50%
+  &.wide
+    width: 70%
+
+.section
+  position: relative
+  height: 50%
+  padding-top: 8em
+  padding-bottom: 12em
+  font-size: 1.2em
+  line-height: 1.6em
+
