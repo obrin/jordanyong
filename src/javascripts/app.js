@@ -16,4 +16,6 @@ console.log(`
     images/gulp.png
   get updated in js too!`)
 
-button.addEventListener('click', alertAsyncMessage)
+//button.addEventListener('click', alertAsyncMessage)
+
+$('.parallax-window').parallax({imageSrc: '/path/to/image.jpg'});
