@@ -35,5 +35,87 @@
       "title": "Instagram",
       "url": "https://instagram.com/jordanyong"
     }
+  ],
+  "skillsLinks": [
+    {
+      "id": "html5-logo",
+      "title": "HTML5"
+    },
+    {
+      "id": "css3-logo",
+      "title": "CSS3"
+    },
+    {
+      "id": "javascript-logo",
+      "title": "Javascript"
+    },
+    {
+      "id": "node-logo",
+      "title": "NodeJs"
+    },
+    {
+      "id": "babel-logo",
+      "title": "Babel"
+    },
+    {
+      "id": "react-logo",
+      "title": "React"
+    },
+    {
+      "id": "riot-logo",
+      "title": "Riot"
+    },
+    {
+      "id": "meteor-logo",
+      "title": "Meteor"
+    },
+    {
+      "id": "jquery-logo",
+      "title": "jQuery"
+    },
+    {
+      "id": "sass-logo",
+      "title": "SASS"
+    },
+    {
+      "id": "git-logo",
+      "title": "Git"
+    },
+    {
+      "id": "github",
+      "title": "Github"
+    },
+    {
+      "id": "grunt-logo",
+      "title": "Grunt"
+    },
+    {
+      "id": "gulp-logo",
+      "title": "Gulp"
+    },
+    {
+      "id": "webpack-logo",
+      "title": "Webpack"
+    },
+    {
+      "id": "express-logo",
+      "title": "Express"
+    },
+    {
+      "id": "mongodb-logo",
+      "title": "MongoDB"
+    },
+    {
+      "id": "rethinkdb-logo",
+      "title": "RethinkDB"
+    },
+    {
+      "id": "couchbase-logo",
+      "title": "Couchbase"
+    },
+    {
+      "id": "aws-logo",
+      "title": "AWS Services"
+    }
   ]
 }
