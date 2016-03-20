@@ -1,0 +1,12 @@
+{% from 'macros/helpers.html' import sprite %}
+<p class="contact-icons">
+
+  {% for item in contactLinks %}
+  <span class="contact">
+      <a href="{{ item.url }}" target="_blank">
+        {{ sprite(item.id) }}
+        <span class="contact-title">{{ item.title }}</span>
+      </a>
+  </span>
+  {% endfor %}
+</p>

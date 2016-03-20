@@ -117,5 +117,23 @@
       "id": "aws-logo",
       "title": "AWS Services"
     }
+  ],
+  "contactLinks": [
+    {
+      "id": "mail",
+      "title": "jordanyong23@gmail.com",
+      "url": "mailto:jordanyong@gmail.com"
+    },
+    {
+      "id": "linkedin",
+      "title": "Linkedin",
+      "url": "https://linkedin.com/in/jordanyong"
+    },
+    {
+      "id": "skype-circle",
+      "title": "jyong23",
+      "url": "skype:jyong23?userinfo"
+    }
+
   ]
 }
