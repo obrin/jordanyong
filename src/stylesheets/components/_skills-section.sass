@@ -1,24 +1,33 @@
 .Skills-Section
   text-align: center
-  background-image: url('../images/macbook-background.jpg')
-  background-size: cover
-  background-repeat: no-repeat
+  height: 50%
+
+  .skills-image
+    background-image: url('../images/macbook-background.png')
+
+  .section
+    padding-bottom: 50px
+    padding-top: 50px
 
   .skill-type
     color: $text-color-light
     font-family: $font-header-thin
     font-size: 1.5em
 
-  .section
+  .overlay
     background-color: $black
     z-index: 10
     opacity: 0.75
     color: $white
+    display: block
+    width: 100%
+    position: relative
+    top: 0
 
-
-.Skills-Badge-Section
-  .sprite
-    display: inline-block
-    fill: currentColor
-    margin: 1em
-    width: 10em
+  .skills-logo
+    background-color: $white
+    .sprite
+      display: inline-block
+      fill: currentColor
+      margin: 1em
+      width: 10em
