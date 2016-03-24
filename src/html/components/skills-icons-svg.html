@@ -1,9 +1,0 @@
-{% from 'macros/helpers.html' import sprite %}
-<p class="skills-icon">
-
-  {% for item in skillsLinks %}
-  <a href="{{ item.url }}">
-    {{ sprite(item.id) }}
-  </a>
-  {% endfor %}
-</p>
